@@ -19,6 +19,6 @@
 .op4 {
   margin-bottom: 28px;
 }
-.div3 {
-  display: block;
+.dflex {
+  float: left;
 }
